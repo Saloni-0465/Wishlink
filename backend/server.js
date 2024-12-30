@@ -2,7 +2,7 @@ const express = require('express');
 const app = express();
 
 app.get('/', (req, res) => {
-  res.send('Hello from WishLink Backend!');
+  res.send('Hello from WishLink Backen!');
 });
 
 app.listen(3000, () => {
