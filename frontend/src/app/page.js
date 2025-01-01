@@ -1,3 +1,9 @@
+// import NewYearWishlist from "../components/NewYearWishlist";
+
 export default function Home() {
-  return <h1>Welcome to WishLink!</h1>;
+  return (
+    <div>
+      {/* <NewYearWishlist /> */}
+    </div>
+  );
 }
